@@ -1,0 +1,16 @@
+ABMaker流程
+1.清空streamingAssets
+
+2.buildresource
+
+3.处理数据
+
+4.导入Lua
+
+5.重新生成fileList
+
+发APK流程
+
+1.执行ABMaker
+
+2.发包
