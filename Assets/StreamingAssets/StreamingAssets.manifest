@@ -1,13 +1,13 @@
 ManifestFileVersion: 0
-CRC: 929843959
+CRC: 2775479124
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: see
-      Dependencies: {}
-    Info_1:
       Name: t_mesh_00002
       Dependencies: {}
-    Info_2:
+    Info_1:
       Name: r400001_shrine_b04
+      Dependencies: {}
+    Info_2:
+      Name: login
       Dependencies: {}

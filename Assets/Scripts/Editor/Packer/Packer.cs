@@ -8,7 +8,7 @@ namespace Multiverse.Runtime
     public class Packer
     {
         [MenuItem("Tools/Packer/Android", false, 1)]
-        public void PackAndroid()
+        public static void PackAndroid()
         {
             //清空StreamingAssets
             //打包资源
